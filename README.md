@@ -1,9 +1,41 @@
-# Frontend Mentor - Product preview card component
+# Abstract
 
-Here is my code for Frontend Mentor web challenge.
+Welcome to the Product card! This project is my response to a challenge from the frontend master website.
 
-  
-## Info
+## Challenge Overview
 
-I like to make my project fully responsive by using @media query and relative units.
-Inside CSS file I used custom properties to easier future modification, CSS Reset code to remove default settings of selectors properties and I also used some pseudo-classes.
+Build a single-page website using HTML and CSS. The goal is to enhance your HTML and CSS skills by building a visually appealing and responsive website.
+
+## Getting Started
+
+To view the website online, visit [https://karolfaltyn.github.io/product-card](https://karolfaltyn.github.io/product-card/).
+
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+```bash
+
+git clone https://github.com/karolfaltyn/abstract.git
+
+```
+
+2. Navigate to the project directory:
+
+```bash
+
+cd abstract
+
+```
+
+3. Open the `index.html` file in your browser.
+
+## Technologies Used
+
+- HTML
+
+- CSS
+
+## License
+
+This project is licensed under the MIT License.
