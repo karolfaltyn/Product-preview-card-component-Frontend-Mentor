@@ -16,7 +16,7 @@ To run the project locally, follow these steps:
 
 ```bash
 
-git clone https://github.com/karolfaltyn/abstract.git
+git clone https://github.com/karolfaltyn/product-card.git
 
 ```
 
