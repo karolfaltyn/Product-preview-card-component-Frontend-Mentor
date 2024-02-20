@@ -14,21 +14,16 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
 
-```bash
-
-git clone https://github.com/karolfaltyn/product-card.git
-
-```
-
+   ```bash
+   git clone https://github.com/karolfaltyn/product-card.git
+   ```
 2. Navigate to the project directory:
 
-```bash
+   ```bash
+   cd product-card
+   ```
 
-cd abstract
-
-```
-
-3. Open the `index.html` file in your browser.
+4. Open the `index.html` file in your browser.
 
 ## Technologies Used
 
