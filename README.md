@@ -1,4 +1,4 @@
-# Abstract
+# Product Card
 
 Welcome to the Product card! This project is my response to a challenge from the frontend master website.
 
